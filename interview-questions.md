@@ -8,7 +8,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is object-oriented programming? How is it different than functional programming?
 
-Your answer:
+Your answer: in object-oriented programming, everything is an object. Ruby uses object oriented programming, but JavaScript uses functional programming
 
 Researched answer:
 

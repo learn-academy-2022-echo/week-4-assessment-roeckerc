@@ -34,7 +34,9 @@ const votes1 = {upVotes: 13, downVotes: 2}
 const votes2 = {upVotes: 2, downVotes: 33}
 // Expected output: -31
 
-
+const ofTheJedi = (obj) => {
+    let voteSum = (obj.upVotes - obj.downVotes)
+    return ofTheJedi};
 // b) Create the function that makes the test pass.
 
 
